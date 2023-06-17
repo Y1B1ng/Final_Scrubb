@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "92309346097",
+    "project_id": "scrubb-9f622",
+    "storage_bucket": "scrubb-9f622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92309346097:android:be4d8e8c518299af670210",
+        "android_client_info": {
+          "package_name": "com.example.scrubb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92309346097-ga8fq8908boi5t1gkso8knldifd08qi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFjKqmSQfAyWiXSyj7inZ37N0dfBebwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92309346097-ga8fq8908boi5t1gkso8knldifd08qi2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92309346097-j6tk4up0tsde4ge6ifikmo0q2joop93k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scrubb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
